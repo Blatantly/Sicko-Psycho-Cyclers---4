@@ -1,0 +1,115 @@
+﻿
+@{
+    ViewData["Title"] = "Safety";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Theme Made By www.w3schools.com - No Copyright -->
+    <title>Bootstrap Theme Simply Me</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <style>
+        body {
+            font: 20px Montserrat, sans-serif;
+            line-height: 1.8;
+            color: #f5f6f7;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        .margin {
+            margin-bottom: 45px;
+        }
+
+        .bg-1 {
+            background-color: #1abc9c; /* Green */
+            color: #ffffff;
+        }
+
+        .bg-2 {
+            background-color: #474e5d; /* Dark Blue */
+            color: #ffffff;
+        }
+
+        .bg-3 {
+            background-color: #ffffff; /* White */
+            color: #555555;
+        }
+
+        .bg-4 {
+            background-color: #2f2f2f; /* Black Gray */
+            color: #fff;
+        }
+
+        .container-fluid {
+            padding-top: 70px;
+            padding-bottom: 70px;
+        }
+
+
+    </style>
+</head>
+<body>
+
+
+
+    <!-- First Container -->
+    <div class="container-fluid bg-1 text-center">
+        <h2 class="margin">Bike Safety</h2>
+        <img src="~/images/sign.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="350" height="350">
+        <h3>Our guide to practicing safe cycling!</h3>
+    </div>
+
+    <!-- Second Container -->
+    <div class="container-fluid bg-2 text-center">
+        <h3 class="margin">We might be Sickos, we might be Pschos, but our bikes are safe as hell!</h3>
+        <p>Our team of four sicko bike enthusiasts are dedicated to providing only the safest bikes on the market today.
+        All of our products are tested individually and thoroughly to ensure that you can practice safe riding and dont 
+        face any safety difficulties like some of our competetor brands offer. Click the link below to view all the safest Bikes.</p>
+        <a href="@Url.Action("Search", "Bikes")" class="btn btn-default btn-lg">
+            <span class="glyphicon glyphicon-search"></span> Search
+        </a>
+    </div>
+
+    <!-- Third Container (Grid) -->
+    <div class="container-fluid bg-3 text-center">
+        <h3 class="margin">Safety Tips</h3><br>
+        <div class="row">
+            <div class="col-sm-4">
+                <h4><b>Even psychos wear helmets!</b></h4>
+                <p>Wearing a helmet reduces the odds of severe injuries by 51%. The facts speak forthemself, wearing a helmet could save your life and prevent injuries from inevidable accidents.
+                Check out are list of stylish affordable helmets.</p>
+                <img src="~/images/helmet.jpg" class="img-responsive margin" style="width:100%" alt="Image">
+            </div>
+            <div class="col-sm-4">
+                <h4><b>Sickos follow Rules to!</b></h4>
+                <p>There have been very few reported fatal bycicle accidents that have taken place in a bycicle lane. Taking safety percaution like looking both ways before crossing, following
+                street signs and lights and staying within bike paths can ensure that you stay safe.</p>
+                <img src="~/images/safetyClown.png" class="img-responsive margin" style="width:100%" alt="Image">
+            </div>
+            <div class="col-sm-4">
+                <h4><b>Sicko, Psycho, or not, you gotta stay hydrated!</b></h4>
+                <p>Like any physical activity its super important to stay hydrated. We sell bikes with water compartments and also accessories to attatch to your bike. It is especially important
+                to bring water when biking long distances away from shops and stops.</p>
+                <img src="~/images/thirstyClown.jpg" class="img-responsive margin" style="width:100%" alt="Image">
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="container-fluid bg-4 text-center">
+        
+    </footer>
+
+</body>
+</html>
+

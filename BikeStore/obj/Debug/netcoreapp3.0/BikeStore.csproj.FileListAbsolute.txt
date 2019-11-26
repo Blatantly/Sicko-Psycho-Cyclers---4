@@ -1,0 +1,561 @@
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.exe
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.csprojAssemblyReference.cache
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\staticwebassets\BikeStore.StaticWebAssets.Manifest.cache
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\staticwebassets\BikeStore.StaticWebAssets.xml
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorAssemblyInfo.cache
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorAssemblyInfo.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.AssemblyInfoInputs.cache
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.AssemblyInfo.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.TagHelpers.input.cache
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.TagHelpers.output.cache
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorCoreGenerate.cache
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorTargetAssemblyInfo.cache
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorTargetAssemblyInfo.cs
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.csproj.CopyComplete
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.deps.json
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.runtimeconfig.json
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.runtimeconfig.dev.json
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.pdb
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.Views.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.Views.pdb
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.Views.pdb
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.dll
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.pdb
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Create.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Delete.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Edit.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Index.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Details.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Road.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Touring.cshtml.g.cs
+C:\Comp Sci\Intergration Proj\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Mountain.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.pdb
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.exe
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.deps.json
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.runtimeconfig.json
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.runtimeconfig.dev.json
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.pdb
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.Views.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.Views.pdb
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\staticwebassets\BikeStore.StaticWebAssets.Manifest.cache
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\staticwebassets\BikeStore.StaticWebAssets.xml
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorAssemblyInfo.cache
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorAssemblyInfo.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.AssemblyInfo.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.TagHelpers.input.cache
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.TagHelpers.output.cache
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorCoreGenerate.cache
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Create.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Delete.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Details.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Edit.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Index.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Mountain.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Road.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Touring.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorTargetAssemblyInfo.cache
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorTargetAssemblyInfo.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.Views.pdb
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.csproj.CopyComplete
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Search.cshtml.g.cs
+C:\Users\Jeremy\Desktop\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Safety.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.exe
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.deps.json
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.runtimeconfig.json
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.runtimeconfig.dev.json
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.pdb
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.Views.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.Views.pdb
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.csprojAssemblyReference.cache
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\staticwebassets\BikeStore.StaticWebAssets.Manifest.cache
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\staticwebassets\BikeStore.StaticWebAssets.xml
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorAssemblyInfo.cache
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorAssemblyInfo.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.AssemblyInfoInputs.cache
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.AssemblyInfo.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.TagHelpers.input.cache
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.TagHelpers.output.cache
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorCoreGenerate.cache
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Create.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Delete.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Details.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Edit.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Index.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Mountain.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Road.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Safety.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Search.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Touring.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorTargetAssemblyInfo.cache
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorTargetAssemblyInfo.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.Views.pdb
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.csproj.CopyComplete
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.dll
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.pdb
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Compare.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Returns.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\ContactUs.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\ProductPage.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\AboutUs.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\CompareBikes.cshtml.g.cs
+C:\Users\jerem\OneDrive\Bureau\SICKO-PSYCHO-CYCLERS\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\CompareResults.cshtml.g.cs
+C:\Users\1581831\Source\Repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.dll
+C:\Users\1581831\Source\Repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.pdb
+C:\Users\1680027\Source\Repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.dll
+C:\Users\1680027\Source\Repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.pdb
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.exe
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.deps.json
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.runtimeconfig.json
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.runtimeconfig.dev.json
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.pdb
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.Views.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\BikeStore.Views.pdb
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.csprojAssemblyReference.cache
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\staticwebassets\BikeStore.StaticWebAssets.Manifest.cache
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\staticwebassets\BikeStore.StaticWebAssets.xml
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorAssemblyInfo.cache
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorAssemblyInfo.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.AssemblyInfo.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.TagHelpers.input.cache
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.TagHelpers.output.cache
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorCoreGenerate.cache
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\AboutUs.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Compare.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\CompareBikes.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\CompareResults.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\ContactUs.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Create.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Delete.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Details.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Edit.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Index.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Mountain.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\ProductPage.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Returns.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Road.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Safety.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Search.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Bikes\Touring.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorTargetAssemblyInfo.cache
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.RazorTargetAssemblyInfo.cs
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.Views.pdb
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.csproj.CopyComplete
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.dll
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\BikeStore.pdb
+C:\Users\jerem\source\repos\Sicko Psycho Cyclers - 4\BikeStore\obj\Debug\netcoreapp3.0\Razor\Views\Shopping\Index.cshtml.g.cs

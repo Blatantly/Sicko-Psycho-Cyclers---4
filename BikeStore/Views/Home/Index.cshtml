@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link href="slide.css" type="text/css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+<style>
+    .imgbox {
+        display: grid;
+        height: 100%;
+    }
+
+    .center-fit {
+        max-width: 75%;
+        max-height: 75vh;
+        margin: auto;
+    }
+</style>
+
+<div class="imgbox">
+    <img class="center-fit" src="~/images/cycle.jpg" />
+</div>
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <a asp-controller="Bikes" asp-action="Road"><img class="d-block w-100" src="~/images/road.jpg" alt="First slide" style="width:1023px;height:575px" asp-action="Bikes/Road"></a>
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Road Bikes</h5>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <a asp-controller="Bikes" asp-action="Mountain"><img class="d-block w-100" src="~/images/mountain.jpg" alt="Second slide" style="width:1023px;height:575px" asp-action="Bikes/Mountain"></a>
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Mountain Bikes</h5>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <a asp-controller="Bikes" asp-action="Touring"><img class="d-block w-100" src="~/images/tour.jpg" alt="Third slide" style="width:1023px;height:575px" asp-action="Bikes/Touring"></a>
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Touring Bikes</h5>
+            </div>
+        </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<script>
+    $('.carousel').carousel({
+        interval: 2500
+    })
+</script>

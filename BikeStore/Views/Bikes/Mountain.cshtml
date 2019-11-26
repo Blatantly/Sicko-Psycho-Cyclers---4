@@ -1,0 +1,15 @@
+﻿@model IEnumerable<BikeStore.Models.BikeListModel>
+@{
+    ViewData["Title"] = "Mountain Bikes";
+}
+
+    <h1>Mountain Bike Model List</h1>
+
+@foreach (var item in Model)
+{
+    <div>
+        @Html.ActionLink(item.ProductModel, "Details", new { id = item.ProductModelID })
+        <p>@item.Description</p>
+    </div>
+}
+

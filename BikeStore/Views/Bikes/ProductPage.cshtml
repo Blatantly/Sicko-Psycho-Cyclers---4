@@ -1,0 +1,29 @@
+﻿@model IEnumerable<BikeStore.Models.ProductPage>
+@{
+    ViewData["Title"] = "ProductPage";
+}
+
+<style>
+    img {
+        object-fit: scale-down;
+        width: 100%;
+    }
+</style>
+
+@foreach (var item in Model)
+{
+    <h1>@item.Name</h1>
+    <div>
+        @{
+            if (item.ThumbNailPhoto != null)
+            {
+                string imgBase = Convert.ToBase64String(item.ThumbNailPhoto);
+                string imgSrc = string.Format("data:image/gif;base64,{0}", imgBase);
+                <img src="@imgSrc" />
+            }
+        }
+    </div>
+    <p>Price: @item.ListPrice.ToString("C")</p>
+    <p>@item.Description</p>
+}
+

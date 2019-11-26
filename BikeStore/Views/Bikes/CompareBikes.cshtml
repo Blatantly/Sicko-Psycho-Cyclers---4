@@ -1,0 +1,25 @@
+﻿@model IEnumerable<BikeStore.Models.Product>
+@{
+    ViewData["Title"] = "CompareBikes";
+}
+
+<h1>Compare Bikes</h1>
+
+@using (Html.BeginForm("CompareResults", "Bikes", FormMethod.Post))
+{
+    <select>
+        @foreach (var item in Model)
+        {
+            <option>@item.Name</option>
+        }
+    </select>
+    <br />
+    <select>
+        @foreach (var item in Model)
+        {
+            <option>@item.Name</option>
+        }
+    </select>
+    <br />
+    <button type="submit">Compare</button>
+}

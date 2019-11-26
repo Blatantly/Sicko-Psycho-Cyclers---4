@@ -1,0 +1,57 @@
+﻿@model IEnumerable<BikeStore.Models.Product>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+@if (ViewBag.Session != null)
+{
+    <table border="1">
+
+        <tr>
+            <th>Product Image</th>
+            <th>Product Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Sub Total</th>
+
+
+        </tr>
+
+        @foreach (var cart in ViewBag.Session)
+        {
+            <tr>
+                <td>
+                    @{
+                        if (cart.Product.ThumbNailPhoto != null && ViewBag.Session.Count != 0)
+                        {
+                            string imgBase = Convert.ToBase64String(cart.Product.ThumbNailPhoto);
+                            string imgSrc = string.Format("data:image/gif;base64,{0}", imgBase);
+                            <img src="@imgSrc" width="100" height="100" />
+                        }
+                    }
+                </td>
+                <th>@cart.Product.Name</th>
+                <th>@cart.Product.ListPrice</th>
+                <th>@cart.Quantity</th>
+                <th>@(String.Format("{0:0.##}", cart.Product.ListPrice * cart.Quantity))</th>
+                <th>
+                    <a href="@Url.Action("Remove", "Shopping", new { id = cart.Product.ProductId })" title="Remove from cart">
+                        <img height="50" width="50" src="~/images/cart.png" />
+                    </a>
+                </th>
+            </tr>
+
+
+
+        }
+    </table>
+}
+else
+{
+    <h2>No Items in Cart</h2>
+}
+
+

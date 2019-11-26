@@ -1,0 +1,79 @@
+﻿@model IEnumerable<BikeStore.Models.Product>
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+    <style>
+        img {
+            object-fit: cover;
+            width: 100%;
+        }
+    </style>
+
+<h1>Product Details</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Color)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ListPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Size)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Weight)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThumbNailPhoto)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name) @*@Html.ActionLink(item.Name, "view you want to go to", new string { prodname = item.ProductNumber);*@
+                <br />
+                @Html.ActionLink("View Bike", "ProductPage", new { id = item.ProductNumber })
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Color)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ListPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Size)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Weight)
+            </td>
+            <td>
+                @{ 
+                    if(item.ThumbNailPhoto != null)
+                    {
+                        string imgBase = Convert.ToBase64String(item.ThumbNailPhoto);
+                        string imgSrc = string.Format("data:image/gif;base64,{0}", imgBase);
+                        <img src="@imgSrc"/>
+                    }
+                }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
